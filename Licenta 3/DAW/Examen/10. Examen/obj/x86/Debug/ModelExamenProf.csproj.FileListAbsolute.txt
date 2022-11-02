@@ -1,2 +1,0 @@
-C:\Users\mirun\OneDrive\Documents\Facultate\An 3\DAW\ModelExamenProf\10. ModelExamen\obj\x86\Debug\ModelExamenProf.csprojAssemblyReference.cache
-C:\Users\mirun\OneDrive\Documents\Facultate\An 3\DAW\ModelExamenProf\10. ModelExamen\obj\x86\Debug\ModelExamenProf.csproj.CoreCompileInputs.cache
