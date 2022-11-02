@@ -10,9 +10,6 @@
 [submodule "Licenta 2/Advanced-Object-Oriented-Programming"]
 	path = Licenta 2/Advanced-Object-Oriented-Programming
 	url = https://github.com/Loila11/Advanced-Object-Oriented-Programming
-[submodule "Licenta 2/SO/Dropbox-Shell"]
-	path = Licenta 2/SO/Dropbox-Shell
-	url = https://github.com/Loila11/Dropbox-Shell
 [submodule "Licenta 2/Web/Beauty-Salon"]
 	path = Licenta 2/Web/Beauty-Salon
 	url = https://github.com/Loila11/Beauty-Salon
@@ -25,3 +22,6 @@
 [submodule "Master 1/Semestrul 1/PML/Book-Rating-Estimation"]
 	path = Master 1/Semestrul 1/PML/Book-Rating-Estimation
 	url = https://github.com/Loila11/Book-Rating-Estimation
+[submodule "Licenta 2/SO/Dropbox-Shell"]
+	path = Licenta 2/SO/Dropbox-Shell
+	url = https://github.com/Loila11/Dropbox-Shell
