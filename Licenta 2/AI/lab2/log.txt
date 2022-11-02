@@ -1,0 +1,4 @@
+scrie_linii 2-3
+scrie_cuvinte asc
+iesire
+###########################

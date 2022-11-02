@@ -1,2 +1,14 @@
 *.idea/
+
+# Python
+*venv/
+
+# Jupyter Notebook
+*.ipynb_checkpoints
+
+# C
 *cmake-build-debug/
+
+# Web
+*fontawesome/
+*node_modules/

@@ -1,0 +1,194 @@
+.title {
+    margin: 0;
+    font-size: 38px;
+    font-weight: 700;
+    font-family: Lato;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.subtitle {
+    color: #999;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+    font-family: Lato;
+    line-height: 1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.menu {
+    width: 990px;
+    margin: 80px auto 0 auto;
+    text-align: center;
+}
+
+.menu-item {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 20px;
+    padding: 10px 40px 10px 40px;
+    background-color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Lato;
+    font-size: 14px;
+    color: #999;
+    vertical-align: bottom;
+}
+
+.menu-item-active {
+    position: relative;
+    bottom: -1px;
+    color: #c0392b;
+    padding: 15px 40px 15px 40px;
+    margin-top: 0;
+}
+
+hr {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #f1f1f1;
+}
+
+.resume-content {
+    width: 70%;
+    padding: 10px;
+}
+
+.resume-title {
+    font-size: 35px;
+    margin: 0px;
+    letter-spacing: -0.02em;
+}
+
+.resume-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.resume-subtitle {
+    font-size: 22px;
+    letter-spacing: -0.05em;
+    margin-bottom: 8px;
+}
+
+.resume-content p {
+    font-family: Lato;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.resume-date {
+    display: flex;
+    align-self: center;
+    float: right;
+    font-size: 10px;
+    color: white;
+    padding: 3px 10px 3px 10px;
+    margin: 20px;
+    border-radius: 3px;
+    background-color: hsl(190, 60%, 60%);
+}
+
+.resume-date--green {
+    background-color: hsl(130, 40%, 60%);
+}
+
+.skills-item {
+    position: relative;
+    list-style-type: none;
+    right: 50px;
+    padding: 3px;
+    margin: 15px 15px 15px 10px;
+    color: white;
+    font-size: 15px;
+    font-family: Lato;
+    border-radius: 3px;
+    width: 130%;
+    border: 1px solid hsl(100, 0%, 95%);
+}
+
+.skills-bg {
+    display: block;
+    width: 150px;
+    padding: 3px;
+    margin: -3px;
+    border-radius: 3px;
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(0, 80%, 40%) 0px,
+        hsl(0, 80%, 40%) 30px,
+        hsl(0, 80%, 60%) 30px,
+        hsl(0, 80%, 60%) 60px
+    );
+}
+
+.skills-item:nth-of-type(5) .skills-bg {
+    width: 170px;
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(200, 0%, 10%) 0px,
+        hsl(200, 0%, 10%) 30px,
+        hsl(200, 0%, 30%) 30px,
+        hsl(200, 0%, 30%) 60px
+    );
+}
+
+.skills-item:nth-last-of-type(1) .skills-bg {
+    width: 160px;
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(0, 0%, 40%) 0px,
+        hsl(0, 0%, 40%) 30px,
+        hsl(0, 0%, 60%) 30px,
+        hsl(0, 0%, 60%) 60px
+    );
+}
+
+.skills-item:nth-of-type(1) .skills-bg {
+    width: 110px;
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(120, 80%, 40%) 0px,
+        hsl(120, 80%, 40%) 30px,
+        hsl(120, 80%, 60%) 30px,
+        hsl(120, 80%, 60%) 60px
+    );
+}
+
+.skills-item:nth-of-type(2) .skills-bg {
+    width: 180px;
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(30, 80%, 40%) 0px,
+        hsl(30, 80%, 40%) 30px,
+        hsl(30, 80%, 60%) 30px,
+        hsl(30, 80%, 60%) 60px
+    );
+}
+
+.skills-item:nth-of-type(3) .skills-bg {
+    
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(280, 80%, 40%) 0px,
+        hsl(280, 80%, 40%) 30px,
+        hsl(280, 80%, 60%) 30px,
+        hsl(280, 80%, 60%) 60px
+    );
+}
+
+.skills-item:nth-of-type(4) .skills-bg {
+    width: 130px;
+    background: repeating-linear-gradient(
+        135deg,
+        hsl(60, 80%, 40%) 0px,
+        hsl(60, 80%, 40%) 30px,
+        hsl(60, 80%, 60%) 30px,
+        hsl(60, 80%, 60%) 60px
+    );
+}

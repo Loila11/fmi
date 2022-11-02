@@ -4,3 +4,15 @@
 [submodule "Licenta 1/Procedural-Programming"]
 	path = Licenta 1/Procedural-Programming
 	url = https://github.com/Loila11/Procedural-Programming
+[submodule "Licenta 2/Penguin-Beautinator"]
+	path = Licenta 2/Penguin-Beautinator
+	url = https://github.com/Loila11/Penguin-Beautinator
+[submodule "Licenta 2/Advanced-Object-Oriented-Programming"]
+	path = Licenta 2/Advanced-Object-Oriented-Programming
+	url = https://github.com/Loila11/Advanced-Object-Oriented-Programming
+[submodule "Licenta 2/Dropbox-Shell"]
+	path = Licenta 2/Dropbox-Shell
+	url = https://github.com/Loila11/Dropbox-Shell
+[submodule "Licenta 2/Web/Beauty-Salon"]
+	path = Licenta 2/Web/Beauty-Salon
+	url = https://github.com/Loila11/Beauty-Salon

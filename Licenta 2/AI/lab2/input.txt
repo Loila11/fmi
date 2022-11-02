@@ -1,0 +1,6 @@
+Se considera un fisier cu numele
+input.txt
+cu un text continand
+cuvinte separate prin spatii si
+linii
+noi

@@ -1,0 +1,21 @@
+.contact-content {
+    display: flex;
+}
+
+.contact-info {
+    width: 33%;
+    padding: 20px;
+    text-align: center;
+}
+
+.fas {
+    font-size: 50px;
+}
+
+.contact-title {
+    font-size: 25px;
+}
+
+p {
+    margin-top: -15px;
+}

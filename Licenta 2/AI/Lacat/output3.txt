@@ -1,0 +1,20 @@
+Initial: [inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1)]
+1) Incuietori: [inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1), inc(i, 1)].
+Folosim cheia: ['d', 'g', 'g', 'g', 'd', 'd', 'g'] pentru a ajunge la [inc(d, 0), inc(i, 1), inc(i, 1), inc(i, 1), inc(d, 0), inc(d, 0), inc(i, 1)].
+2) Incuietori: [inc(d, 0), inc(i, 1), inc(i, 1), inc(i, 1), inc(d, 0), inc(d, 0), inc(i, 1)].
+Folosim cheia: ['i', 'd', 'd', 'd', 'g', 'i', 'i'] pentru a ajunge la [inc(i, 1), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(i, 2)].
+3) Incuietori: [inc(i, 1), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(i, 2)].
+Folosim cheia: ['d', 'g', 'g', 'g', 'i', 'i', 'd'] pentru a ajunge la [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(i, 2), inc(i, 1)].
+4) Incuietori: [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(i, 2), inc(i, 1)].
+Folosim cheia: ['d', 'g', 'g', 'g', 'd', 'd', 'g'] pentru a ajunge la [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(i, 1)].
+5) Incuietori: [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(i, 1)].
+Folosim cheia: ['d', 'g', 'g', 'g', 'd', 'd', 'g'] pentru a ajunge la [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1)].
+6) Incuietori: [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1)].
+Folosim cheia: ['g', 'g', 'g', 'i', 'g', 'g', 'd'] pentru a ajunge la [inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(d, 0), inc(d, 0), inc(d, 0)].
+7) Incuietori: [inc(d, 0), inc(d, 0), inc(d, 0), inc(i, 1), inc(d, 0), inc(d, 0), inc(d, 0)].
+Folosim cheia: ['g', 'i', 'g', 'd', 'd', 'g', 'g'] pentru a ajunge la [inc(d, 0), inc(i, 1), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0)].
+8) Incuietori: [inc(d, 0), inc(i, 1), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0)].
+Folosim cheia: ['g', 'd', 'g', 'g', 'g', 'g', 'g'] pentru a ajunge la [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0)].
+
+Incuietori(stare scop): [inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0), inc(d, 0)].
+S-au realizat 8 operatii.

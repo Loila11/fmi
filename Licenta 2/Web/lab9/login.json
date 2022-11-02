@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "John Doe",
+      "email": "ab@gmail.com",
+      "password": "ab",
+      "appointments": [
+        {
+          "name": "Coafor",
+          "details": [
+            "Vopsit par scurt",
+            "Spalat pe cap"
+          ]
+        },
+        {
+          "name": "Manichiura",
+          "details": [
+            "Demontat Gel"
+          ]
+        },
+        {
+          "name": "Manichiura",
+          "details": [
+            "Demontat Gel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "email": "ab@hotmail.com",
+      "password": "bc"
+    },
+    {
+      "id": 2,
+      "name": "AKITA",
+      "email": "test@test.com",
+      "password": "test"
+    }
+  ]
+}
