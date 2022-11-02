@@ -1,0 +1,3 @@
+crypt keykey using daily password
+crypt message using key
+send cripted keykey + cripted message 

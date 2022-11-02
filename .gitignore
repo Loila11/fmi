@@ -1,10 +1,12 @@
 *.idea/
+*packages/
 
 # Python
 *venv/
+*__pycache__/
 
 # Jupyter Notebook
-*.ipynb_checkpoints
+*.ipynb_checkpoints/
 
 # C
 *cmake-build-debug/

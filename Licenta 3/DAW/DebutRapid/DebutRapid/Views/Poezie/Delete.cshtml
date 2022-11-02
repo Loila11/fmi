@@ -1,0 +1,56 @@
+﻿@model DebutRapid.Models.Poezie
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Poezie</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.titlu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.titlu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.autor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.autor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.numar_strofe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.numar_strofe)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.volum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.volum)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

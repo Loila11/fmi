@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelExamenProf", "ModelExamenProf.csproj", "{393CB1A9-1E87-42F9-AFE1-BD67CE67543D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393CB1A9-1E87-42F9-AFE1-BD67CE67543D}.Debug|x86.ActiveCfg = Debug|x86
+		{393CB1A9-1E87-42F9-AFE1-BD67CE67543D}.Debug|x86.Build.0 = Debug|x86
+		{393CB1A9-1E87-42F9-AFE1-BD67CE67543D}.Release|x86.ActiveCfg = Release|x86
+		{393CB1A9-1E87-42F9-AFE1-BD67CE67543D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91DA2B40-3E15-432E-A83A-14F3E506DA6A}
+	EndGlobalSection
+EndGlobal

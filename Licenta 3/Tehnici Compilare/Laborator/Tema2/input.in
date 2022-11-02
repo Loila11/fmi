@@ -1,0 +1,121 @@
+6 S
+S aXbZ
+X aXX
+X c
+Y .
+Z bZ
+Z b
+1
+aacbb
+
+
+5 E
+E E+T
+E T
+T T*F
+T F
+F n
+5
+n*n*n
+n+n
+n+n*n+n*n
+n+n*
+n+*n
+
+
+
+
+2 A
+A Aaa
+A _
+3
+_
+aaaa
+aaa
+
+
+
+3 E
+E E+E
+E E*E
+E n
+2
+E + E
+
+
+5 S
+S aABb
+A aAc
+A _
+B bB
+B c
+4
+aacbbcb
+abbbcb
+acb
+accb
+
+
+3 A
+A Bb
+B Ba
+B _
+3
+aaab
+b
+aa
+
+
+
+
+6 E
+E E+T
+E T
+T T*F
+T F
+F (E)
+F i
+2
+(id*id)
+id*+id)
+
+
+6 E
+E TR
+R +TR
+R *TR
+R _
+T n
+T (E)
+1
+(n)*n
+#cursul 9
+
+
+
+
+
+
+6 E
+E T
+E E+T
+T F
+T T*F
+F n
+F (E)
+6
+n+n*n
+(n)*(n*n)+(n*n+n+(n))
+n+*n
+n+n
+alabala
+(n+n)*(n*n)
+
+
+
+5 S
+S AaA
+S bB
+A aa
+A aA
+B b
