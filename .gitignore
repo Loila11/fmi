@@ -4,9 +4,11 @@
 # Python
 *venv/
 *__pycache__/
+*stanford_parser/
 
 # Jupyter Notebook
 *.ipynb_checkpoints/
+*GoogleNews-vectors-negative300.bin
 
 # C
 *cmake-build-debug/
