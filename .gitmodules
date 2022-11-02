@@ -25,3 +25,9 @@
 [submodule "Licenta 2/SO/Dropbox-Shell"]
 	path = Licenta 2/SO/Dropbox-Shell
 	url = https://github.com/Loila11/Dropbox-Shell
+[submodule "Master 1/Semestrul 2/CV/Darts"]
+	path = Master 1/Semestrul 2/CV/Darts
+	url = https://github.com/Loila11/Darts
+[submodule "Master 1/Semestrul 2/CV/Scrabble"]
+	path = Master 1/Semestrul 2/CV/Scrabble
+	url = https://github.com/Loila11/Scrabble
