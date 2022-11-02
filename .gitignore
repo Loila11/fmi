@@ -14,3 +14,7 @@
 # Web
 *fontawesome/
 *node_modules/
+
+# Lean
+/build
+/lean_packages

@@ -16,3 +16,12 @@
 [submodule "Licenta 2/Web/Beauty-Salon"]
 	path = Licenta 2/Web/Beauty-Salon
 	url = https://github.com/Loila11/Beauty-Salon
+[submodule "Master 1/Semestrul 1/Anafora"]
+	path = Master 1/Semestrul 1/Anafora
+	url = https://github.com/Loila11/Anafora
+[submodule "Master 1/Semestrul 1/PML/Word-Complexity-Estimation"]
+	path = Master 1/Semestrul 1/PML/Word-Complexity-Estimation
+	url = https://github.com/Loila11/Word-Complexity-Estimation
+[submodule "Master 1/Semestrul 1/PML/Book-Rating-Estimation"]
+	path = Master 1/Semestrul 1/PML/Book-Rating-Estimation
+	url = https://github.com/Loila11/Book-Rating-Estimation
