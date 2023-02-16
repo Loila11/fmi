@@ -31,3 +31,15 @@
 [submodule "Master 1/Semestrul 2/CV/Scrabble"]
 	path = Master 1/Semestrul 2/CV/Scrabble
 	url = https://github.com/Loila11/Scrabble
+[submodule "Master 2/STCL/EDOS"]
+	path = Master 2/STCL/EDOS
+	url = https://github.com/Loila11/SemEval2023
+[submodule "Master 2/Text Mining/IR"]
+	path = Master 2/Text Mining/IR
+	url = https://github.com/Loila11/Information-Retrieval
+[submodule "Master 2/Text Mining/Music Genre Classifier"]
+	path = Master 2/Text Mining/Music Genre Classifier
+	url = https://github.com/Loila11/Music-Genre-Classifier
+[submodule "Master 2/Machine Translation/Gender Bias"]
+	path = Master 2/Machine Translation/Gender Bias
+	url = https://github.com/Loila11/Gender-Bias
