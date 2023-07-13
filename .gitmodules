@@ -31,6 +31,7 @@
 [submodule "Master 1/Semestrul 2/CV/Scrabble"]
 	path = Master 1/Semestrul 2/CV/Scrabble
 	url = https://github.com/Loila11/Scrabble
+
 [submodule "Master 2/STCL/EDOS"]
 	path = Master 2/STCL/EDOS
 	url = https://github.com/Loila11/SemEval2023
