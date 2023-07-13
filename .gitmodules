@@ -37,9 +37,9 @@
 [submodule "Master 2/Text Mining/IR"]
 	path = Master 2/Text Mining/IR
 	url = https://github.com/Loila11/Information-Retrieval
-[submodule "Master 2/Text Mining/Music Genre Classifier"]
-	path = Master 2/Text Mining/Music Genre Classifier
-	url = https://github.com/Loila11/Music-Genre-Classifier
+[submodule "Master 2/Text Mining/Music Genre Classification"]
+	path = Master 2/Text Mining/Music Genre Classification
+	url = https://github.com/Loila11/MusicGenreClassification
 [submodule "Master 2/Machine Translation/Gender Bias"]
 	path = Master 2/Machine Translation/Gender Bias
 	url = https://github.com/Loila11/Gender-Bias
